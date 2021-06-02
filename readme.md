@@ -1,6 +1,3 @@
-layout: page
-title: "Foundations"
-permalink: /
 # Foundations
 
 > A simple blueprint for the boring parts of your organization
