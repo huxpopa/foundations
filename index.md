@@ -1,5 +1,6 @@
-# Foundations
+---
+layout: page
+title: Home
+---
 
-> A simple blueprint for the boring parts of your organization
-
-Painfully curated to only the parts that matter.
+Home page coming soon.  Check back often!
