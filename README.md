@@ -1,3 +1,6 @@
 # Foundations
 
-Read me for Foundations coming soon.
+Placeholder for content for whomever might look at the code behind the website.
+
+Thanks!
+Derek

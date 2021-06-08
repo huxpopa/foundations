@@ -3,4 +3,6 @@ layout: page
 title: Home
 ---
 
-Home page coming soon.  Check back often!
+Welcome to foundation.  Interesting content will go here someday.
+
+Thanks for stopping by.  Come again soon!
