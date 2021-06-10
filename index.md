@@ -9,9 +9,9 @@ Welcome to Foundations.  Foundations is a painfully curated blueprint for runnin
 
 Or, click below to jump right into the content.
 
-## Foundations - Block 1
+## Foundations
 - [Asset](./asset/)
-- [Incident Management](./incident/)
+- [Incident](./incident/)
 - [Knowledge](./knowledge/)
 - [Project](./project/)
 - [Risk](./risk/)
