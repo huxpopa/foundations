@@ -10,7 +10,7 @@ This is the Foundations collection. A crowdsourced, community driven blueprint f
 - Focus on content that is applicable to all types and sizes or organizations
 
 ## Structure
-Foundations is organized into 3 levels:
+Foundations is organized into 3 levels for navigation:
 
 ```
 Service Category
@@ -19,3 +19,11 @@ Service Category
 ```
 
 Since all organizations are different, it is impossible to build a common framework that applies to all organizations perfectly.  However, it is possible for all organizations to pull value from this structure by mapping the content that makes the most sense to what you are working on.
+
+Each Business Service has 5 sections:
+
+- **Build**: What to do to get up and running
+- **Manage**: What you will need to continue doing to support
+- **Maturity**: Simple checklist to validate maturity
+- **Achievements**: What you will have achieved when you can validate maturity
+- **References**: Any relevant references that support the guidance
