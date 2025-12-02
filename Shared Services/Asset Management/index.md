@@ -31,11 +31,11 @@
 
 ## Maturity
 
-✅ Do you know how many new assets were added this week?
-✅ Do you know how many assets were active this week?
-✅ Do you know how many assets were retired this week?
-✅ Does everyone in your department know where the centralized asset inventory is?
+- [ ] Do you know how many new assets were added this week?
+- [ ] Do you know how many assets were active this week?
+- [ ] Do you know how many assets were retired this week?
+- [ ] Does everyone in your department know where the centralized asset inventory is?
 
 ## Achievements
 
-✅ NIST 1800-5
+- [ ] NIST 1800-5
